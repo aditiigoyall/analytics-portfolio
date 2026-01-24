@@ -69,4 +69,4 @@ RANK() OVER (ORDER BY SUM(o.amount) desc) as rank
 FROM Customers c
 INNER JOIN Orders o
 ON c.customer_id = o.customer_id
-GROUP BY c.customer_id, c.first_name
+GROUP BY c.customer_id, c.first_name;
