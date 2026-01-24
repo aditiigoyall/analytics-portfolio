@@ -46,3 +46,17 @@ INNER JOIN Shippings s
 ON c.customer_id = s.customer
 WHERE s.status = 'Delivered';
 
+-- Display customer first name, item, and amount for all customers who have placed an order.
+SELECT c.first_name,
+o.item,
+o.amount
+FROM Customers c
+INNER JOIN Orders o
+ON c.customer_id = o.customer_id;
+
+-- Show all customers and their order items, including customers who have not placed any orders.
+SELECT c.first_name,
+o.item
+FROM Customers c
+LEFT JOIN Orders o
+ON c.customer_id = o.customer_id;
