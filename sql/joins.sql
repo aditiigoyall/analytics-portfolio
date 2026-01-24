@@ -60,3 +60,11 @@ o.item
 FROM Customers c
 LEFT JOIN Orders o
 ON c.customer_id = o.customer_id;
+
+-- List the names of customers whose shipping status is 'Pending'.
+SELECT c.customer_id,
+c.first_name
+FROM Customers c
+INNER JOIN Shippings s
+ON c.customer_id = s.customer
+WHERE s.status = 'Pending';
