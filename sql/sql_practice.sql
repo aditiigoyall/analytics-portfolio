@@ -27,3 +27,23 @@ SELECT *
 FROM Customers
 WHERE age IS NOT NULL;
 
+-- Display the first name, last name, and country of all customers who live in the USA.
+SELECT first_name,
+last_name,
+country
+FROM Customers
+WHERE country = 'USA';
+
+-- Find all customers whose age is greater than 25.
+SELECT customer_id,
+first_name,
+age
+FROM Customers
+WHERE age > 25;
+
+-- List all customers ordered by age in descending order.
+SELECT customer_id,
+first_name,
+age
+FROM Customers
+ORDER BY age desc;
