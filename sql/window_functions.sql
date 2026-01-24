@@ -60,3 +60,13 @@ item,
 amount,
 AVG(amount) OVER () as avg_amount
 FROM Orders;
+
+-- Rank customers based on their total order amount (highest spender gets rank 1).
+SELECT c.customer_id,
+c.first_name,
+SUM(o.amount) as total_amount,
+RANK() OVER (ORDER BY SUM(o.amount) desc) as rank
+FROM Customers c
+INNER JOIN Orders o
+ON c.customer_id = o.customer_id
+GROUP BY c.customer_id, c.first_name
