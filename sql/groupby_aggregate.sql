@@ -28,3 +28,24 @@ SELECT customer_id,
 SUM(amount) as total_amount 
 FROM Orders
 GROUP BY Customer_id;
+
+-- Find the total order amount spent by each customer.
+SELECT c.customer_id,
+c.first_name,
+c.last_name,
+SUM(o.amount) as total_amount
+FROM Customers c
+INNER JOIN Orders o
+ON c.customer_id = o.customer_id
+GROUP BY c.customer_id, c.first_name, c.last_name;
+
+-- Display customers whose total order amount is greater than 500.	
+SELECT c.customer_id,
+c.first_name,
+c.last_name,
+SUM(o.amount) as total_amount
+FROM Customers c
+INNER JOIN Orders o
+ON c.customer_id = o.customer_id
+GROUP BY c.customer_id, c.first_name, c.last_name
+HAVING SUM(o.amount) > 500;
