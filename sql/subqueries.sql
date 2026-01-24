@@ -40,3 +40,12 @@ FROM Customers c
 LEFT JOIN Orders o 
 ON c.customer_id = o.customer_id
 WHERE o.customer_id IS NULL;
+
+-- Find customers whose order amount is higher than the average order amount.
+SELECT c.customer_id,
+c.first_name,
+o.amount
+FROM Customers c
+INNER JOIN Orders o
+ON c.customer_id = o.customer_id
+WHERE amount > (SELECT AVG(amount) FROM Orders);
