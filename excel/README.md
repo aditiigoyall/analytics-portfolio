@@ -6,7 +6,6 @@ This folder contains Excel practice files showcasing core data analysis concepts
 📁 Files Included
 
 1️⃣ Functions Practice
-
 This file demonstrates a selected set of commonly used Excel functions out of many available, applied through practical analysis questions.
 
 
