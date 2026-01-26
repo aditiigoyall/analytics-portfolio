@@ -10,27 +10,27 @@ This file demonstrates a selected set of commonly used Excel functions out of ma
 
 Functions demonstrated include & questions covered:
 
-COUNT- How many total orders are there in the dataset?
+- COUNT- How many total orders are there in the dataset?
 
-COUNTIF- How many orders were placed in the North region?
+- COUNTIF- How many orders were placed in the North region?
 
-COUNTIFS- How many Electronics orders were placed in the South region?
+- COUNTIFS- How many Electronics orders were placed in the South region?
 
-SUM- What is the total revenue generated from all orders?
+- SUM- What is the total revenue generated from all orders?
 
-SUMIF- What is the total revenue from Furniture sales?
+- SUMIF- What is the total revenue from Furniture sales?
 
-SUMIFS- What is the total revenue generated in the North region for Electronics products?
+- SUMIFS- What is the total revenue generated in the North region for Electronics products?
 
-IF- Label orders as High Value or Normal Value based on revenue.
+- IF- Label orders as High Value or Normal Value based on revenue.
 
-IFS- Classify orders as High, Medium, or Low value using IFS.
+- IFS- Classify orders as High, Medium, or Low value using IFS.
 
-SPARKLINES- Create a sparkline to visualize daily revenue trends.
+- SPARKLINES- Create a sparkline to visualize daily revenue trends.
 
-MAX/MIN- Identify the highest and lowest revenue generated in a single order.
+- MAX/MIN- Identify the highest and lowest revenue generated in a single order.
 
-LEFT- Extract product category codes from the ProductCode column using text functions.
+- LEFT- Extract product category codes from the ProductCode column using text functions.
 
 
 2️⃣ Pivot Tables & Analysis
@@ -62,12 +62,12 @@ This section focuses on visual representation of data to identify patterns and t
 
 🎯 Key Skills Demonstrated
 
-Data aggregation and filtering
+- Data aggregation and filtering
 
-Conditional logic
+- Conditional logic
 
-Trend analysis and visualization
+- Trend analysis and visualization
 
-Pivot table creation and interpretation
+- Pivot table creation and interpretation
 
-Clean and structured Excel workflow
+- Clean and structured Excel workflow
