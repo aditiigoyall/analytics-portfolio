@@ -1,6 +1,6 @@
-📊 SQL Practice - Data Analysis Fundamentals
+📊 SQL Practice 
 
-This folder contains SQL queries practiced as part of Data Analyst interview preparation.
+This folder contains SQL queries created to practice and strengthen core SQL concepts using a sample dataset.
 
 What’s included:
 
