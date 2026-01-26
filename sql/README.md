@@ -4,18 +4,18 @@ This folder contains SQL queries practiced as part of Data Analyst interview pre
 
 What’s included:
 
-Dataset creation (CREATE TABLE, INSERT)
+- Dataset creation (CREATE TABLE, INSERT)
 
 Core SQL concepts:
 
-SELECT, WHERE, ORDER BY
+- SELECT, WHERE, ORDER BY
 
-INNER JOIN, LEFT JOIN
+- INNER JOIN, LEFT JOIN
 
-GROUP BY, aggregate functions
+- GROUP BY, aggregate functions
 
-Basic subqueries
+- Basic subqueries
 
-Window functions (ROW_NUMBER, RANK, DENSE_RANK, AVG() OVER())
+- Window functions (ROW_NUMBER, RANK, DENSE_RANK, AVG() OVER())
 
 Each query is clearly commented to explain its purpose and focuses on building strong SQL fundamentals.
