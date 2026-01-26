@@ -1,4 +1,4 @@
-📊 Excel Practice - Data Analysis Fundamentals
+📊 Excel Practice 
 
 This folder contains Excel practice files showcasing core data analysis concepts through structured questions and hands-on exercises using a sample sales dataset. The focus is on applying essential Excel functions, pivot tables, and basic visualizations in a clear and organized manner.
 
