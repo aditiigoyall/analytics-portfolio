@@ -64,4 +64,4 @@ These tasks demonstrate the use of aggregation, filtering, conditional logic, an
 
 - DAX measures and calculated columns
 
-Category-wise and time-based analysis
+- Category-wise and time-based analysis
