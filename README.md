@@ -25,9 +25,9 @@ SQL | Excel | Power BI | Python
 Credits:
 Grateful to the mentors and educators I learned from-
 - [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
+- [Luke Barousse](https://www.youtube.com/@LukeBarousse)
 - [Kenji Explains](https://www.youtube.com/@KenjiExplains)
 - [Rishabh Mishra](https://www.youtube.com/@RishabhMishraOfficial)
-- [Luke Barousse](https://www.youtube.com/@LukeBarousse)
 - [ChatGPT](https://chatgpt.com/)
 
 📌 This repository is actively updated as part of my data analytics learning journey.
