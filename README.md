@@ -6,6 +6,7 @@ A structured repository for Data Analyst preparation, showcasing SQL, Excel, Pow
 - SQL (queries, EDA)
 - Excel (formulas, pivot tables, analysis)
 - Power BI (dashboards, DAX basics)
+- Python (data analysis with Pandas, Numpy)
 
 ## 📂 Repository Structure
 - /SQL - Practice queries and case studies
@@ -20,6 +21,13 @@ A structured repository for Data Analyst preparation, showcasing SQL, Excel, Pow
 
 ## 🛠 Tools
 SQL | Excel | Power BI | Python
+
+Credits:
+Grateful to the mentors and educators I learned from-
+- [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
+- [Kenji Explains](https://www.youtube.com/@KenjiExplains)
+- [Rishabh Mishra](https://www.youtube.com/@RishabhMishraOfficial)
+- [Luke Barousse](https://www.youtube.com/@LukeBarousse)
 
 📌 This repository is actively updated as part of my data analytics learning journey.
 
