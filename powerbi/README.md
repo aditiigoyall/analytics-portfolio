@@ -6,6 +6,8 @@ This folder contains Power BI reports created to analyze an e-commerce sales dat
 
 📁 **Files Included**
 
+---
+
 1️⃣ **E-commerce Sales Dashboard**
 
 An interactive Power BI dashboard built to provide a consolidated view of sales performance across different dimensions.
