@@ -1,10 +1,10 @@
-📊 Excel Practice 
+📊 **Excel Practice** 
 
 This folder contains Excel practice files showcasing core data analysis concepts through structured questions and hands-on exercises using a sample sales dataset. The focus is on applying essential Excel functions, pivot tables, and basic visualizations in a clear and organized manner.
 
-📁 Files Included
+📁 **Files Included**
 
-1️⃣ Functions Practice
+1️⃣ **Functions Practice**
 
 This file demonstrates a selected set of commonly used Excel functions out of many available, applied through practical analysis questions.
 
@@ -33,7 +33,7 @@ Functions demonstrated include & questions covered:
 - LEFT- Extract product category codes from the ProductCode column using text functions.
 
 
-2️⃣ Pivot Tables & Analysis
+2️⃣ **Pivot Tables & Analysis**
 
 This file focuses on summarizing and analyzing data using pivot tables to extract meaningful insights.
 
@@ -50,17 +50,17 @@ Q4. Visualize product sales trends over time by region.
 Q5. Find profit by products.
 
 
-3️⃣ Lookup Functions
+3️⃣ **Lookup Functions**
 
 Lookup functions are handled in a separate file to demonstrate relational logic and value mapping across datasets.
 
 
-4️⃣ Charts & Visualizations
+4️⃣ **Charts & Visualizations**
 
 This section focuses on visual representation of data to identify patterns and trends clearly.
 
 
-🎯 Key Skills Demonstrated
+🎯 **Key Skills Demonstrated**
 
 - Data aggregation and filtering
 
