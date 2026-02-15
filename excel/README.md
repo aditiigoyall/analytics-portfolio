@@ -2,7 +2,7 @@
 
 This folder contains Excel practice files showcasing core data analysis concepts through structured questions and hands-on exercises using a sample sales dataset. The focus is on applying essential Excel functions, pivot tables, and basic visualizations in a clear and organized manner.
 
---
+---
 
 📁 **Files Included**
 
@@ -24,7 +24,7 @@ Functions demonstrated include & questions covered:
 - MAX/MIN- Identify the highest and lowest revenue generated in a single order.
 - LEFT- Extract product category codes from the ProductCode column using text functions.
 
---
+---
 
 2️⃣ **Pivot Tables & Analysis**
 
@@ -42,19 +42,19 @@ Q4. Visualize product sales trends over time by region.
 
 Q5. Find profit by products.
 
---
+---
 
 3️⃣ **Lookup Functions**
 
 Lookup functions are handled in a separate file to demonstrate relational logic and value mapping across datasets.
 
---
+---
 
 4️⃣ **Charts & Visualizations**
 
 This section focuses on visual representation of data to identify patterns and trends clearly.
 
---
+---
 
 🎯 **Key Skills Demonstrated**
 
