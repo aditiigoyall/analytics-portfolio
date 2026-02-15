@@ -9,13 +9,9 @@ What’s included:
 Core SQL concepts:
 
 - SELECT, WHERE, ORDER BY
-
 - INNER JOIN, LEFT JOIN
-
 - GROUP BY, aggregate functions
-
 - Basic subqueries
-
 - Window functions (ROW_NUMBER, RANK, DENSE_RANK, AVG() OVER())
 
 Each query is clearly commented to explain its purpose and focuses on building strong SQL fundamentals.
