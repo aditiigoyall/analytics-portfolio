@@ -2,6 +2,8 @@
 
 This folder contains Power BI reports created to analyze an e-commerce sales dataset. It focuses on dashboard design, KPI tracking, interactive filtering, and DAX-based calculations to derive meaningful insights from sales data.
 
+---
+
 📁 **Files Included**
 
 1️⃣ **E-commerce Sales Dashboard**
@@ -21,6 +23,8 @@ Dashboard highlights:
 
 The dashboard is designed to give a clear overview of sales trends, performance drivers, and category-level contributions at a glance.
 
+---
+
 2️⃣ **DAX Functions Practice**
 
 This file focuses on applying DAX measures and calculated columns to solve common analytical tasks.
@@ -37,6 +41,8 @@ Questions / tasks covered:
 - Calculate revenue from Sprite and Fanta
 
 These tasks demonstrate the use of aggregation, filtering, conditional logic, and calculated fields using DAX.
+
+---
 
 🎯 **Key Skills Demonstrated**
 
