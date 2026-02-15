@@ -1,4 +1,4 @@
-📊 SQL Practice 
+📊 **SQL Practice**
 
 This folder contains SQL queries created to practice and strengthen core SQL concepts using a sample dataset.
 
