@@ -1,10 +1,10 @@
-📊 Power BI – E-commerce Sales Dashboard & DAX Practice
+📊 **Power BI – E-commerce Sales Dashboard & DAX Practice**
 
 This folder contains Power BI reports created to analyze an e-commerce sales dataset. It focuses on dashboard design, KPI tracking, interactive filtering, and DAX-based calculations to derive meaningful insights from sales data.
 
-📁 Files Included
+📁 **Files Included**
 
-1️⃣ E-commerce Sales Dashboard
+1️⃣ **E-commerce Sales Dashboard**
 
 An interactive Power BI dashboard built to provide a consolidated view of sales performance across different dimensions.
 
@@ -28,7 +28,7 @@ Dashboard highlights:
 
 The dashboard is designed to give a clear overview of sales trends, performance drivers, and category-level contributions at a glance.
 
-2️⃣ DAX Functions Practice
+2️⃣ **DAX Functions Practice**
 
 This file focuses on applying DAX measures and calculated columns to solve common analytical tasks.
 
@@ -52,7 +52,7 @@ Questions / tasks covered:
 
 These tasks demonstrate the use of aggregation, filtering, conditional logic, and calculated fields using DAX.
 
-🎯 Key Skills Demonstrated
+🎯 **Key Skills Demonstrated**
 
 - Dashboard layout and visual design
 
