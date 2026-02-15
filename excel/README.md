@@ -30,9 +30,13 @@ This file focuses on summarizing and analyzing data using pivot tables to extrac
 Pivot table questions covered:
 
 Q1. Show revenue by products and by region, sorted from highest to lowest.
+
 Q2. Find the proportion of each category with respect to the grand total.
+
 Q3. Find the average sale price of each unit.
+
 Q4. Visualize product sales trends over time by region.
+
 Q5. Find profit by products.
 
 
